@@ -1391,110 +1391,37 @@ body {
 .cid-rDLFBNPHfK H1 {
   color: #ffffff;
 }
-.cid-rEQfKCfGv5 {
-  padding-top: 30px;
-  padding-bottom: 0px;
+.cid-rF1CLD8GOq {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-rEQfKCfGv5 .mbr-section-subtitle {
-  color: #232323;
+.cid-rF1CLD8GOq h3 {
+  text-align: center;
+}
+.cid-rF1CLD8GOq .mbr-section-subtitle {
+  color: #767676;
   font-weight: 300;
   text-align: left;
 }
-.cid-rEQfKCfGv5 .mbr-content-text {
+.cid-rF1CLD8GOq .mbr-content-text {
   color: #767676;
 }
-.cid-rEQfKCfGv5 .card {
+.cid-rF1CLD8GOq .panel-item {
+  background: #ffffff;
+}
+.cid-rF1CLD8GOq .card {
   word-wrap: break-word;
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
 }
-.cid-rEQfKCfGv5 .cards-container {
-  display: flex;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: center;
-  justify-content: center;
-  word-break: break-word;
+.cid-rF1CLD8GOq .mbr-iconfont {
+  font-size: 80px;
+  color: #149dcc;
 }
-@media (max-width: 767px) {
-  .cid-rEQfKCfGv5 .card:not(.last-child) {
-    padding-bottom: 1.5rem;
-  }
-}
-.cid-rEQfKCfGv5 .img-text {
-  color: #c1c1c1;
-}
-.cid-rEQfKCfGv5 .mbr-section-title {
-  text-align: center;
+.cid-rF1CLD8GOq .mbr-section-title {
   color: #b1a374;
 }
-.cid-rEQfKCfGv5 .mbr-section-title B {
+.cid-rF1CLD8GOq B {
   color: #b1a374;
-}
-.cid-rEQcZFHFFh {
-  padding-top: 0px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rEQcZFHFFh .list-group-item {
-  padding: .75rem 3.25rem;
-}
-.cid-rEQcZFHFFh .plan {
-  word-break: break-word;
-  position: relative;
-  max-width: 300px;
-  padding-right: 0;
-  padding-left: 0;
-  color: #767676;
-}
-.cid-rEQcZFHFFh .plan .list-group-item {
-  position: relative;
-  -webkit-justify-content: center;
-  justify-content: center;
-  background-color: transparent;
-  border: 0;
-}
-.cid-rEQcZFHFFh .plan .list-group-item::after {
-  position: absolute;
-  bottom: 0;
-  left: 20%;
-  width: 60%;
-  height: 2px;
-  content: "";
-  background-color: #eaeaea;
-}
-.cid-rEQcZFHFFh .plan .list-group-item:last-child::after {
-  display: none;
-}
-.cid-rEQcZFHFFh .plan.favorite {
-  background-color: #fff;
-  box-shadow: 0 0 60px 0 rgba(0, 0, 0, 0.07);
-}
-.cid-rEQcZFHFFh .plan-header {
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-.cid-rEQcZFHFFh .price-figure {
-  font-weight: 700;
-  color: #b1a374;
-}
-.cid-rEQcZFHFFh .price-value {
-  font-weight: 700;
-  vertical-align: top;
-}
-@media (max-width: 550px) {
-  .cid-rEQcZFHFFh .price-figure {
-    font-size: 4.25rem;
-  }
-}
-.cid-rEQcZFHFFh SPAN {
-  color: #ffffff;
-}
-.cid-rEQcZFHFFh .plan-title {
-  color: #232323;
 }
 .cid-rEQhzG40CQ {
   background-image: url("../../../assets/images/map-1296x648.png");
